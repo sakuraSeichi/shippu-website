@@ -1,2 +1,0 @@
-# shippu-website
-shippu
